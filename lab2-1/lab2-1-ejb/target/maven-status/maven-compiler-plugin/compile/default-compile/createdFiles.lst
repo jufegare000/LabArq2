@@ -1,1 +1,9 @@
+com/udea/model/Customer.class
+com/udea/model/Customer_.class
+com/udea/session/CustomerManager.class
+com/udea/model/MicroMarket.class
+com/udea/session/CustomerManagerLocal.class
+com/udea/model/DiscountCode_.class
+com/udea/model/DiscountCode.class
+com/udea/model/MicroMarket_.class
 com/udea/NewSessionBean.class

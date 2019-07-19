@@ -1,1 +1,6 @@
-/home/estudiantes/juanf.gallo/NetBeansProjects/lab2-1/lab2-1-ejb/src/main/java/com/udea/NewSessionBean.java
+/home/estudiantes/juanf.gallo/Documents/Ark/LabArq2/lab2-1/lab2-1-ejb/src/main/java/com/udea/session/CustomerManager.java
+/home/estudiantes/juanf.gallo/Documents/Ark/LabArq2/lab2-1/lab2-1-ejb/src/main/java/com/udea/model/MicroMarket.java
+/home/estudiantes/juanf.gallo/Documents/Ark/LabArq2/lab2-1/lab2-1-ejb/src/main/java/com/udea/model/DiscountCode.java
+/home/estudiantes/juanf.gallo/Documents/Ark/LabArq2/lab2-1/lab2-1-ejb/src/main/java/com/udea/session/CustomerManagerLocal.java
+/home/estudiantes/juanf.gallo/Documents/Ark/LabArq2/lab2-1/lab2-1-ejb/src/main/java/com/udea/model/Customer.java
+/home/estudiantes/juanf.gallo/Documents/Ark/LabArq2/lab2-1/lab2-1-ejb/src/main/java/com/udea/NewSessionBean.java
